@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1114" height="489" viewBox="0 0 1114 489">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-403 -153.5)">
+    <line id="Line_1" data-name="Line 1" class="cls-1" y2="489" transform="translate(960.5 153.5)"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(403 224)">
+      <ellipse class="cls-2" cx="557" cy="35" rx="557" ry="35"/>
+      <ellipse class="cls-3" cx="557" cy="35" rx="556.5" ry="34.5"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="1000" transform="translate(460.5 259)"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(403 364)">
+      <ellipse class="cls-2" cx="557" cy="35" rx="557" ry="35"/>
+      <ellipse class="cls-3" cx="557" cy="35" rx="556.5" ry="34.5"/>
+    </g>
+    <line id="Line_3" data-name="Line 3" class="cls-1" x2="1000" transform="translate(460.5 399)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-1" transform="translate(403 504)">
+      <ellipse class="cls-2" cx="557" cy="35" rx="557" ry="35"/>
+      <ellipse class="cls-3" cx="557" cy="35" rx="556.5" ry="34.5"/>
+    </g>
+    <line id="Line_4" data-name="Line 4" class="cls-1" x2="1000" transform="translate(460.5 539)"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.5" height="757" viewBox="0 0 27.5 757">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        font-size: 20px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-158.5 -57)">
+    <text id="RELAX_PAIN" data-name="RELAX &amp; PAIN" class="cls-1" transform="translate(185.5 57) rotate(90)"><tspan x="0" y="22">RELAX &amp; PAIN</tspan></text>
+    <text id="AESTHETIC_INJECTION" data-name="AESTHETIC INJECTION" class="cls-1" transform="translate(186 611) rotate(90)"><tspan x="0" y="22">AESTHETIC INJECTION</tspan></text>
+    <line id="Line_1" data-name="Line 1" class="cls-2" y2="150" transform="translate(172 212.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-2" y2="150" transform="translate(172 437.5)"/>
+    <text id="_" data-name="( )" class="cls-1" transform="translate(163 409)"><tspan x="0" y="0">( )</tspan></text>
+  </g>
+</svg>

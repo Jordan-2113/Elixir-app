@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="758" viewBox="0 0 27 758">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        font-size: 20px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-216 -58)">
+    <text id="FACE_SKIN" data-name="FACE &amp; SKIN" class="cls-1" transform="translate(221 58) rotate(90)"><tspan x="0" y="0">FACE &amp; SKIN</tspan></text>
+    <text id="SHAPE_HAIR_REMOVEAL" data-name="SHAPE &amp; HAIR REMOVEAL" class="cls-1" transform="translate(221 580) rotate(90)"><tspan x="0" y="0">SHAPE &amp; HAIR REMOVEAL</tspan></text>
+    <line id="Line_3" data-name="Line 3" class="cls-2" y2="145" transform="translate(228.5 410.5)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-2" y2="141" transform="translate(228.5 194.5)"/>
+    <text id="_" data-name="( )" class="cls-1" transform="translate(220 382)"><tspan x="0" y="0">( )</tspan></text>
+  </g>
+</svg>
